@@ -1,0 +1,9001 @@
+variables: 11
+restricciones: 8
+profundidad: 0
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 2.48801
+diametro_pequeno: 0.497001
+id: 1
+
+variables: 11
+restricciones: 8
+profundidad: 2
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.61732
+diametro_pequeno: 0.497001
+id: 2
+
+variables: 11
+restricciones: 8
+profundidad: 1
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.74188
+diametro_pequeno: 0.497001
+id: 3
+
+variables: 11
+restricciones: 8
+profundidad: 3
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.49276
+diametro_pequeno: 0.497001
+id: 4
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.36838
+diametro_pequeno: 0.248751
+id: 5
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24276
+diametro_pequeno: 0.248751
+id: 6
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 7
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 8
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870219
+diametro_pequeno: 0.249126
+id: 9
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994594
+diametro_pequeno: 0.248407
+id: 10
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.828876
+diametro_pequeno: 0.289751
+id: 11
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.869313
+diametro_pequeno: 0.249126
+id: 12
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.248751
+id: 13
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.248751
+id: 14
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 15
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 16
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.493623
+diametro_pequeno: 0.207063
+id: 17
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.124297
+id: 18
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.134797
+id: 19
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.459886
+diametro_pequeno: 0.124376
+id: 20
+
+variables: 11
+restricciones: 8
+profundidad: 3
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.36857
+diametro_pequeno: 0.248751
+id: 21
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24419
+diametro_pequeno: 0.248751
+id: 22
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.12007
+diametro_pequeno: 0.373688
+id: 23
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 24
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 25
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 26
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808844
+diametro_pequeno: 0.248751
+id: 27
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808719
+diametro_pequeno: 0.248751
+id: 28
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808844
+diametro_pequeno: 0.248501
+id: 29
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.124376
+id: 30
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684594
+diametro_pequeno: 0.124501
+id: 31
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.619031
+diametro_pequeno: 0.124501
+id: 32
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.591172
+diametro_pequeno: 0.124501
+id: 33
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0623126
+id: 34
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.522557
+diametro_pequeno: 0.124376
+id: 35
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528891
+diametro_pequeno: 0.124501
+id: 36
+
+variables: 11
+restricciones: 8
+profundidad: 2
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.49313
+diametro_pequeno: 0.248751
+id: 37
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24401
+diametro_pequeno: 0.248501
+id: 38
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24401
+diametro_pequeno: 0.248501
+id: 39
+
+variables: 11
+restricciones: 8
+profundidad: 3
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.12001
+diametro_pequeno: 0.248751
+id: 40
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.12007
+diametro_pequeno: 0.249126
+id: 41
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870938
+diametro_pequeno: 0.249126
+id: 42
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871876
+diametro_pequeno: 0.248501
+id: 43
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746563
+diametro_pequeno: 0.248751
+id: 44
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745834
+diametro_pequeno: 0.248751
+id: 45
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.248188
+id: 46
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560001
+diametro_pequeno: 0.124376
+id: 47
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.124563
+id: 48
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.186219
+id: 49
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435938
+diametro_pequeno: 0.124875
+id: 50
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373282
+diametro_pequeno: 0.124376
+id: 51
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.124094
+id: 52
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.299434
+diametro_pequeno: 0.116315
+id: 53
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.273401
+diametro_pequeno: 0.0623751
+id: 54
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280063
+diametro_pequeno: 0.0621876
+id: 55
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.22127
+diametro_pequeno: 0.064638
+id: 56
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.514211
+diametro_pequeno: 0.124501
+id: 57
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24401
+diametro_pequeno: 0.248751
+id: 58
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.11963
+diametro_pequeno: 0.248751
+id: 59
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870938
+diametro_pequeno: 0.249126
+id: 60
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 61
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871251
+diametro_pequeno: 0.248501
+id: 62
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 63
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684282
+diametro_pequeno: 0.248751
+id: 64
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622094
+diametro_pequeno: 0.248751
+id: 65
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560032
+diametro_pequeno: 0.248501
+id: 66
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497907
+diametro_pequeno: 0.248501
+id: 67
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.186844
+id: 68
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.139665
+id: 69
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435516
+diametro_pequeno: 0.124376
+id: 70
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.388836
+diametro_pequeno: 0.0775391
+id: 71
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.681514
+diametro_pequeno: 0.248501
+id: 72
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.933313
+diametro_pequeno: 0.248751
+id: 73
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 74
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.990562
+diametro_pequeno: 0.248501
+id: 75
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746469
+diametro_pequeno: 0.248751
+id: 76
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.124376
+id: 77
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559001
+diametro_pequeno: 0.185813
+id: 78
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620313
+diametro_pequeno: 0.124376
+id: 79
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498001
+diametro_pequeno: 0.185813
+id: 80
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124563
+id: 81
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.155032
+id: 82
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466657
+diametro_pequeno: 0.186938
+id: 83
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124376
+id: 84
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403751
+diametro_pequeno: 0.124376
+id: 85
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.33875
+diametro_pequeno: 0.12048
+id: 86
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 87
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.248751
+id: 88
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994251
+diametro_pequeno: 0.248501
+id: 89
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620563
+diametro_pequeno: 0.248751
+id: 90
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.246339
+id: 91
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.869688
+diametro_pequeno: 0.248751
+id: 92
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.124376
+id: 93
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620501
+diametro_pequeno: 0.124376
+id: 94
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.558766
+diametro_pequeno: 0.124376
+id: 95
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496298
+diametro_pequeno: 0.0621876
+id: 96
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436107
+diametro_pequeno: 0.109122
+id: 97
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341704
+diametro_pequeno: 0.0694774
+id: 98
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.809282
+diametro_pequeno: 0.248501
+id: 99
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.744723
+diametro_pequeno: 0.248501
+id: 100
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745938
+diametro_pequeno: 0.248501
+id: 101
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.663855
+diametro_pequeno: 0.248501
+id: 102
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.683563
+diametro_pequeno: 0.124376
+id: 103
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 104
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559047
+diametro_pequeno: 0.124563
+id: 105
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.527766
+diametro_pequeno: 0.124563
+id: 106
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434532
+diametro_pequeno: 0.144459
+id: 107
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.495196
+diametro_pequeno: 0.123891
+id: 108
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404688
+diametro_pequeno: 0.124376
+id: 109
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373594
+diametro_pequeno: 0.124376
+id: 110
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403938
+diametro_pequeno: 0.124251
+id: 111
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310844
+diametro_pequeno: 0.123264
+id: 112
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280597
+diametro_pequeno: 0.0913682
+id: 113
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.296133
+diametro_pequeno: 0.0621876
+id: 114
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.278505
+diametro_pequeno: 0.0619454
+id: 115
+
+variables: 11
+restricciones: 8
+profundidad: 26
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280708
+diametro_pequeno: 0.0516615
+id: 116
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309473
+diametro_pequeno: 0.103323
+id: 117
+
+variables: 11
+restricciones: 8
+profundidad: 28
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.250532
+diametro_pequeno: 0.0310938
+id: 118
+
+variables: 11
+restricciones: 8
+profundidad: 27
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.192725
+diametro_pequeno: 0.0458461
+id: 119
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870313
+diametro_pequeno: 0.248501
+id: 120
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.869313
+diametro_pequeno: 0.248001
+id: 121
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684594
+diametro_pequeno: 0.248501
+id: 122
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622126
+diametro_pequeno: 0.248501
+id: 123
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621971
+diametro_pequeno: 0.124376
+id: 124
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.187157
+id: 125
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.400656
+diametro_pequeno: 0.124376
+id: 126
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497002
+diametro_pequeno: 0.124251
+id: 127
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.491684
+diametro_pequeno: 0.124313
+id: 128
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.371692
+diametro_pequeno: 0.124376
+id: 129
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.273945
+diametro_pequeno: 0.0463985
+id: 130
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.340888
+diametro_pequeno: 0.0927969
+id: 131
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.342454
+diametro_pequeno: 0.124251
+id: 132
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.744751
+diametro_pequeno: 0.249126
+id: 133
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.248751
+id: 134
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.248751
+id: 135
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.683313
+diametro_pequeno: 0.248501
+id: 136
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.124376
+id: 137
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.619751
+diametro_pequeno: 0.185566
+id: 138
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434907
+diametro_pequeno: 0.124563
+id: 139
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.538063
+diametro_pequeno: 0.145219
+id: 140
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372719
+diametro_pequeno: 0.124376
+id: 141
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.495342
+diametro_pequeno: 0.207063
+id: 142
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310618
+diametro_pequeno: 0.103532
+id: 143
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310618
+diametro_pequeno: 0.124149
+id: 144
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372719
+diametro_pequeno: 0.124376
+id: 145
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.26389
+diametro_pequeno: 0.124204
+id: 146
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745469
+diametro_pequeno: 0.186126
+id: 147
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745657
+diametro_pequeno: 0.248407
+id: 148
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745657
+diametro_pequeno: 0.248407
+id: 149
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621282
+diametro_pequeno: 0.183856
+id: 150
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496813
+diametro_pequeno: 0.118951
+id: 151
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373406
+diametro_pequeno: 0.109987
+id: 152
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.354474
+diametro_pequeno: 0.124344
+id: 153
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.579751
+diametro_pequeno: 0.227469
+id: 154
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.165188
+id: 155
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.662626
+diametro_pequeno: 0.227563
+id: 156
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.579938
+diametro_pequeno: 0.166063
+id: 157
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.580063
+diametro_pequeno: 0.166063
+id: 158
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.4072
+diametro_pequeno: 0.0839902
+id: 159
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.744938
+diametro_pequeno: 0.248751
+id: 160
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620563
+diametro_pequeno: 0.248751
+id: 161
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.683219
+diametro_pequeno: 0.248501
+id: 162
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620735
+diametro_pequeno: 0.185922
+id: 163
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497141
+diametro_pequeno: 0.124563
+id: 164
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.537876
+diametro_pequeno: 0.145219
+id: 165
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.43504
+diametro_pequeno: 0.124204
+id: 166
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497141
+diametro_pequeno: 0.207063
+id: 167
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.422522
+diametro_pequeno: 0.121577
+id: 168
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.43504
+diametro_pequeno: 0.120198
+id: 169
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.391154
+diametro_pequeno: 0.103532
+id: 170
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.248751
+id: 171
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745844
+diametro_pequeno: 0.124376
+id: 172
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 173
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 174
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435204
+diametro_pequeno: 0.124376
+id: 175
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.124297
+id: 176
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.4961
+diametro_pequeno: 0.144969
+id: 177
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.432966
+diametro_pequeno: 0.124251
+id: 178
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.40222
+diametro_pequeno: 0.124376
+id: 179
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.306672
+diametro_pequeno: 0.0552495
+id: 180
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 181
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.248407
+id: 182
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497245
+diametro_pequeno: 0.124376
+id: 183
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.136755
+id: 184
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 185
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.248407
+id: 186
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.145016
+id: 187
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.103532
+id: 188
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.481302
+diametro_pequeno: 0.124376
+id: 189
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621344
+diametro_pequeno: 0.248001
+id: 190
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.494047
+diametro_pequeno: 0.248297
+id: 191
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.207063
+id: 192
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.492264
+diametro_pequeno: 0.186251
+id: 193
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434876
+diametro_pequeno: 0.124251
+id: 194
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.100883
+id: 195
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.493453
+diametro_pequeno: 0.124251
+id: 196
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.375222
+diametro_pequeno: 0.0878186
+id: 197
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.282392
+diametro_pequeno: 0.0617204
+id: 198
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373235
+diametro_pequeno: 0.0621485
+id: 199
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.467079
+diametro_pequeno: 0.124297
+id: 200
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 201
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 202
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.12007
+diametro_pequeno: 0.248751
+id: 203
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808844
+diametro_pequeno: 0.124376
+id: 204
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.802279
+diametro_pequeno: 0.248501
+id: 205
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808969
+diametro_pequeno: 0.248501
+id: 206
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.124376
+id: 207
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.715547
+diametro_pequeno: 0.186844
+id: 208
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.63236
+diametro_pequeno: 0.124376
+id: 209
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.361594
+diametro_pequeno: 0.0621876
+id: 210
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.455149
+diametro_pequeno: 0.0992386
+id: 211
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404407
+diametro_pequeno: 0.0801169
+id: 212
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 213
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871032
+diametro_pequeno: 0.248751
+id: 214
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871032
+diametro_pequeno: 0.248751
+id: 215
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622407
+diametro_pequeno: 0.248501
+id: 216
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746126
+diametro_pequeno: 0.124376
+id: 217
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.124376
+id: 218
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560219
+diametro_pequeno: 0.124376
+id: 219
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.43561
+diametro_pequeno: 0.124657
+id: 220
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560219
+diametro_pequeno: 0.113431
+id: 221
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436321
+diametro_pequeno: 0.112286
+id: 222
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560219
+diametro_pequeno: 0.0956474
+id: 223
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.74104
+diametro_pequeno: 0.128781
+id: 224
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.767032
+diametro_pequeno: 0.248751
+id: 225
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.933219
+diametro_pequeno: 0.373688
+id: 226
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808844
+diametro_pequeno: 0.248751
+id: 227
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.124376
+id: 228
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745313
+diametro_pequeno: 0.124501
+id: 229
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.683657
+diametro_pequeno: 0.185907
+id: 230
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620763
+diametro_pequeno: 0.185907
+id: 231
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528891
+diametro_pequeno: 0.186844
+id: 232
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.590641
+diametro_pequeno: 0.124376
+id: 233
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.586088
+diametro_pequeno: 0.124376
+id: 234
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684594
+diametro_pequeno: 0.155079
+id: 235
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0929532
+id: 236
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0929532
+id: 237
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0929532
+id: 238
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528516
+diametro_pequeno: 0.0934219
+id: 239
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436157
+diametro_pequeno: 0.0621251
+id: 240
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.322568
+diametro_pequeno: 0.0302191
+id: 241
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 242
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808844
+diametro_pequeno: 0.248501
+id: 243
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.74648
+diametro_pequeno: 0.248501
+id: 244
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.124376
+id: 245
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.653235
+diametro_pequeno: 0.124376
+id: 246
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559719
+diametro_pequeno: 0.155079
+id: 247
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.611688
+diametro_pequeno: 0.124251
+id: 248
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 249
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.653235
+diametro_pequeno: 0.124376
+id: 250
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.59111
+diametro_pequeno: 0.124251
+id: 251
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.653235
+diametro_pequeno: 0.124251
+id: 252
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.066149
+id: 253
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 254
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746719
+diametro_pequeno: 0.248501
+id: 255
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.591344
+diametro_pequeno: 0.186501
+id: 256
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 257
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 258
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560469
+diametro_pequeno: 0.125063
+id: 259
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435704
+diametro_pequeno: 0.124719
+id: 260
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.56011
+diametro_pequeno: 0.124251
+id: 261
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870563
+diametro_pequeno: 0.248501
+id: 262
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.807258
+diametro_pequeno: 0.124626
+id: 263
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.739988
+diametro_pequeno: 0.124626
+id: 264
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528891
+diametro_pequeno: 0.155079
+id: 265
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.591067
+diametro_pequeno: 0.124501
+id: 266
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 267
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 268
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528985
+diametro_pequeno: 0.124251
+id: 269
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.52888
+diametro_pequeno: 0.0623126
+id: 270
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528985
+diametro_pequeno: 0.0623126
+id: 271
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436282
+diametro_pequeno: 0.0934219
+id: 272
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0621876
+id: 273
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0832366
+id: 274
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0436824
+id: 275
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.248751
+id: 276
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808844
+diametro_pequeno: 0.248501
+id: 277
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684594
+diametro_pequeno: 0.248501
+id: 278
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684594
+diametro_pequeno: 0.248501
+id: 279
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 280
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.43561
+diametro_pequeno: 0.124376
+id: 281
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.45942
+diametro_pequeno: 0.0929532
+id: 282
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.363196
+diametro_pequeno: 0.0946636
+id: 283
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497126
+diametro_pequeno: 0.0929532
+id: 284
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.548418
+diametro_pequeno: 0.186844
+id: 285
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746657
+diametro_pequeno: 0.248751
+id: 286
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684469
+diametro_pequeno: 0.248501
+id: 287
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746532
+diametro_pequeno: 0.124251
+id: 288
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.589064
+diametro_pequeno: 0.186844
+id: 289
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.578704
+diametro_pequeno: 0.124251
+id: 290
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.414271
+diametro_pequeno: 0.124376
+id: 291
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684594
+diametro_pequeno: 0.248501
+id: 292
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.591172
+diametro_pequeno: 0.186844
+id: 293
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466704
+diametro_pequeno: 0.124376
+id: 294
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528891
+diametro_pequeno: 0.139665
+id: 295
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.374942
+diametro_pequeno: 0.0621876
+id: 296
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.461229
+diametro_pequeno: 0.248501
+id: 297
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.279814
+diametro_pequeno: 0.0991615
+id: 298
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622407
+diametro_pequeno: 0.124376
+id: 299
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436219
+diametro_pequeno: 0.124376
+id: 300
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124376
+id: 301
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.339017
+diametro_pequeno: 0.0625313
+id: 302
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.289967
+diametro_pequeno: 0.0746913
+id: 303
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 304
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528891
+diametro_pequeno: 0.124501
+id: 305
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528985
+diametro_pequeno: 0.124251
+id: 306
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528985
+diametro_pequeno: 0.0623126
+id: 307
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528985
+diametro_pequeno: 0.0625816
+id: 308
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.554229
+diametro_pequeno: 0.124501
+id: 309
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309201
+diametro_pequeno: 0.124251
+id: 310
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.367799
+diametro_pequeno: 0.0623126
+id: 311
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.297206
+diametro_pequeno: 0.0620079
+id: 312
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.204162
+diametro_pequeno: 0.0644925
+id: 313
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528985
+diametro_pequeno: 0.0623126
+id: 314
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.523018
+diametro_pequeno: 0.0623126
+id: 315
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124251
+id: 316
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0931876
+id: 317
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124251
+id: 318
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.363494
+diametro_pequeno: 0.0934219
+id: 319
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0623126
+id: 320
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.522557
+diametro_pequeno: 0.124376
+id: 321
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0623126
+id: 322
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0623126
+id: 323
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0623126
+id: 324
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.464932
+diametro_pequeno: 0.124376
+id: 325
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.5112
+diametro_pequeno: 0.124501
+id: 326
+
+variables: 11
+restricciones: 8
+profundidad: 3
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24401
+diametro_pequeno: 0.248501
+id: 327
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.12007
+diametro_pequeno: 0.248751
+id: 328
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870938
+diametro_pequeno: 0.248751
+id: 329
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871876
+diametro_pequeno: 0.248501
+id: 330
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746126
+diametro_pequeno: 0.124376
+id: 331
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746688
+diametro_pequeno: 0.248501
+id: 332
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560001
+diametro_pequeno: 0.124376
+id: 333
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559844
+diametro_pequeno: 0.124563
+id: 334
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560391
+diametro_pequeno: 0.124094
+id: 335
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.591219
+diametro_pequeno: 0.124376
+id: 336
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684501
+diametro_pequeno: 0.124376
+id: 337
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.102244
+id: 338
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.686758
+diametro_pequeno: 0.111623
+id: 339
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870938
+diametro_pequeno: 0.248501
+id: 340
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.11963
+diametro_pequeno: 0.248501
+id: 341
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.248501
+id: 342
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.933688
+diametro_pequeno: 0.124376
+id: 343
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.124563
+id: 344
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.611275
+diametro_pequeno: 0.124251
+id: 345
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.749965
+diametro_pequeno: 0.125233
+id: 346
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.124251
+id: 347
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808626
+diametro_pequeno: 0.124376
+id: 348
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808626
+diametro_pequeno: 0.124376
+id: 349
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497938
+diametro_pequeno: 0.124251
+id: 350
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.674931
+diametro_pequeno: 0.10764
+id: 351
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 1.24401
+diametro_pequeno: 0.248501
+id: 352
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746563
+diametro_pequeno: 0.124626
+id: 353
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.124251
+id: 354
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560001
+diametro_pequeno: 0.124626
+id: 355
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.36623
+diametro_pequeno: 0.0623126
+id: 356
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560032
+diametro_pequeno: 0.124563
+id: 357
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.425296
+diametro_pequeno: 0.11583
+id: 358
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.275422
+diametro_pequeno: 0.0623126
+id: 359
+
+variables: 11
+restricciones: 8
+profundidad: 4
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871501
+diametro_pequeno: 0.236185
+id: 360
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.12475
+id: 361
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.747126
+diametro_pequeno: 0.124376
+id: 362
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.747126
+diametro_pequeno: 0.124376
+id: 363
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622876
+diametro_pequeno: 0.241006
+id: 364
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.425635
+diametro_pequeno: 0.12475
+id: 365
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435751
+diametro_pequeno: 0.12475
+id: 366
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498126
+diametro_pequeno: 0.12475
+id: 367
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.499001
+diametro_pequeno: 0.124376
+id: 368
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.499001
+diametro_pequeno: 0.124376
+id: 369
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.499001
+diametro_pequeno: 0.0621876
+id: 370
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.499001
+diametro_pequeno: 0.124251
+id: 371
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.499001
+diametro_pequeno: 0.0623751
+id: 372
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.248751
+id: 373
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.248751
+id: 374
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871313
+diametro_pequeno: 0.124376
+id: 375
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.248501
+id: 376
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.124501
+id: 377
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.996501
+diametro_pequeno: 0.124501
+id: 378
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.748001
+diametro_pequeno: 0.124251
+id: 379
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.747376
+diametro_pequeno: 0.124501
+id: 380
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435657
+diametro_pequeno: 0.0623126
+id: 381
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.42082
+diametro_pequeno: 0.112024
+id: 382
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0931094
+id: 383
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746563
+diametro_pequeno: 0.248751
+id: 384
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746438
+diametro_pequeno: 0.248751
+id: 385
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746563
+diametro_pequeno: 0.248501
+id: 386
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.124501
+id: 387
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.554496
+diametro_pequeno: 0.124376
+id: 388
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435469
+diametro_pequeno: 0.124501
+id: 389
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124251
+id: 390
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0623126
+id: 391
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.426311
+diametro_pequeno: 0.102486
+id: 392
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.10424
+id: 393
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.747501
+diametro_pequeno: 0.248501
+id: 394
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622626
+diametro_pequeno: 0.124251
+id: 395
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560938
+diametro_pequeno: 0.124376
+id: 396
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.499501
+diametro_pequeno: 0.124376
+id: 397
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436438
+diametro_pequeno: 0.124376
+id: 398
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622626
+diametro_pequeno: 0.119408
+id: 399
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435938
+diametro_pequeno: 0.122392
+id: 400
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.374626
+diametro_pequeno: 0.0624376
+id: 401
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.581417
+diametro_pequeno: 0.24171
+id: 402
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248501
+diametro_pequeno: 0.10307
+id: 403
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.248188
+id: 404
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560001
+diametro_pequeno: 0.124751
+id: 405
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.186219
+id: 406
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.552362
+diametro_pequeno: 0.185886
+id: 407
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435938
+diametro_pequeno: 0.124875
+id: 408
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435469
+diametro_pequeno: 0.124563
+id: 409
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528969
+diametro_pequeno: 0.124313
+id: 410
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.550158
+diametro_pequeno: 0.124094
+id: 411
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560188
+diametro_pequeno: 0.121848
+id: 412
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.521009
+diametro_pequeno: 0.16776
+id: 413
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.677638
+diametro_pequeno: 0.124251
+id: 414
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.552423
+diametro_pequeno: 0.124094
+id: 415
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559678
+diametro_pequeno: 0.124376
+id: 416
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.429849
+diametro_pequeno: 0.124563
+id: 417
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.416368
+diametro_pequeno: 0.12489
+id: 418
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560001
+diametro_pequeno: 0.124751
+id: 419
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.551102
+diametro_pequeno: 0.122917
+id: 420
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404641
+diametro_pequeno: 0.120596
+id: 421
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.357457
+diametro_pequeno: 0.0620469
+id: 422
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404579
+diametro_pequeno: 0.123299
+id: 423
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124376
+id: 424
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436016
+diametro_pequeno: 0.124094
+id: 425
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466844
+diametro_pequeno: 0.124376
+id: 426
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124251
+id: 427
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466821
+diametro_pequeno: 0.118842
+id: 428
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.0622813
+id: 429
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248751
+diametro_pequeno: 0.0446855
+id: 430
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435751
+diametro_pequeno: 0.124376
+id: 431
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311438
+diametro_pequeno: 0.124251
+id: 432
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.342188
+diametro_pequeno: 0.062375
+id: 433
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373563
+diametro_pequeno: 0.0621876
+id: 434
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.264657
+diametro_pequeno: 0.0623751
+id: 435
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124376
+id: 436
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466844
+diametro_pequeno: 0.124376
+id: 437
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124251
+id: 438
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.374157
+diametro_pequeno: 0.0620469
+id: 439
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0620469
+id: 440
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.0488519
+id: 441
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124376
+id: 442
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435469
+diametro_pequeno: 0.124563
+id: 443
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466844
+diametro_pequeno: 0.124376
+id: 444
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124251
+id: 445
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124251
+id: 446
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124251
+id: 447
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.369869
+diametro_pequeno: 0.124376
+id: 448
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373751
+diametro_pequeno: 0.122977
+id: 449
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280469
+diametro_pequeno: 0.0626875
+id: 450
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311626
+diametro_pequeno: 0.104283
+id: 451
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.364641
+diametro_pequeno: 0.124094
+id: 452
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311157
+diametro_pequeno: 0.124094
+id: 453
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311157
+diametro_pequeno: 0.0621251
+id: 454
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.196956
+diametro_pequeno: 0.0624375
+id: 455
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.22047
+diametro_pequeno: 0.0641048
+id: 456
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.21724
+diametro_pequeno: 0.0641693
+id: 457
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.299434
+diametro_pequeno: 0.0621251
+id: 458
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.27321
+diametro_pequeno: 0.0623751
+id: 459
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.222338
+diametro_pequeno: 0.0621876
+id: 460
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249126
+diametro_pequeno: 0.050215
+id: 461
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.182461
+diametro_pequeno: 0.0621876
+id: 462
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.159114
+diametro_pequeno: 0.0621251
+id: 463
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.32793
+diametro_pequeno: 0.118389
+id: 464
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.514211
+diametro_pequeno: 0.124501
+id: 465
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870938
+diametro_pequeno: 0.248751
+id: 466
+
+variables: 11
+restricciones: 8
+profundidad: 5
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.994876
+diametro_pequeno: 0.248501
+id: 467
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871251
+diametro_pequeno: 0.248501
+id: 468
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684407
+diametro_pequeno: 0.248501
+id: 469
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622094
+diametro_pequeno: 0.124376
+id: 470
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622282
+diametro_pequeno: 0.246543
+id: 471
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.590985
+diametro_pequeno: 0.186844
+id: 472
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.590985
+diametro_pequeno: 0.139665
+id: 473
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684282
+diametro_pequeno: 0.124376
+id: 474
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.871126
+diametro_pequeno: 0.248501
+id: 475
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.12475
+id: 476
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684282
+diametro_pequeno: 0.124938
+id: 477
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622188
+diametro_pequeno: 0.124376
+id: 478
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622188
+diametro_pequeno: 0.124376
+id: 479
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497938
+diametro_pequeno: 0.248501
+id: 480
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497938
+diametro_pequeno: 0.186376
+id: 481
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.422088
+diametro_pequeno: 0.124001
+id: 482
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.42309
+diametro_pequeno: 0.124001
+id: 483
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.374438
+diametro_pequeno: 0.124563
+id: 484
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124376
+id: 485
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.29876
+diametro_pequeno: 0.0621876
+id: 486
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.287565
+diametro_pequeno: 0.063945
+id: 487
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309337
+diametro_pequeno: 0.120861
+id: 488
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.746376
+diametro_pequeno: 0.249126
+id: 489
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622001
+diametro_pequeno: 0.248751
+id: 490
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621709
+diametro_pequeno: 0.248751
+id: 491
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.619168
+diametro_pequeno: 0.124501
+id: 492
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497751
+diametro_pequeno: 0.248188
+id: 493
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404329
+diametro_pequeno: 0.124563
+id: 494
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559813
+diametro_pequeno: 0.124376
+id: 495
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435626
+diametro_pequeno: 0.124876
+id: 496
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497751
+diametro_pequeno: 0.186219
+id: 497
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372657
+diametro_pequeno: 0.124094
+id: 498
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373282
+diametro_pequeno: 0.124376
+id: 499
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311157
+diametro_pequeno: 0.124251
+id: 500
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248563
+diametro_pequeno: 0.0620469
+id: 501
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.264446
+diametro_pequeno: 0.0621251
+id: 502
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.312602
+diametro_pequeno: 0.0984289
+id: 503
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.230026
+diametro_pequeno: 0.0622813
+id: 504
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745938
+diametro_pequeno: 0.248501
+id: 505
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808657
+diametro_pequeno: 0.248501
+id: 506
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.248501
+id: 507
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559407
+diametro_pequeno: 0.124563
+id: 508
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 509
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 510
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 511
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.611263
+diametro_pequeno: 0.186501
+id: 512
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.54735
+diametro_pequeno: 0.124251
+id: 513
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434995
+diametro_pequeno: 0.111616
+id: 514
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248501
+diametro_pequeno: 0.0737806
+id: 515
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622313
+diametro_pequeno: 0.248501
+id: 516
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684407
+diametro_pequeno: 0.125188
+id: 517
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.125375
+id: 518
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 519
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497668
+diametro_pequeno: 0.124671
+id: 520
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.374938
+diametro_pequeno: 0.124563
+id: 521
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435626
+diametro_pequeno: 0.124876
+id: 522
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372751
+diametro_pequeno: 0.124251
+id: 523
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 524
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.30888
+diametro_pequeno: 0.124251
+id: 525
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.375125
+diametro_pequeno: 0.12383
+id: 526
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373171
+diametro_pequeno: 0.0624376
+id: 527
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.335854
+diametro_pequeno: 0.123483
+id: 528
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808657
+diametro_pequeno: 0.248501
+id: 529
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.124626
+id: 530
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745938
+diametro_pequeno: 0.124626
+id: 531
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 532
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498251
+diametro_pequeno: 0.124563
+id: 533
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124501
+id: 534
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 535
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435969
+diametro_pequeno: 0.0623126
+id: 536
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372969
+diametro_pequeno: 0.124251
+id: 537
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373782
+diametro_pequeno: 0.0623126
+id: 538
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.494594
+diametro_pequeno: 0.124251
+id: 539
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249594
+diametro_pequeno: 0.0621876
+id: 540
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310541
+diametro_pequeno: 0.0378494
+id: 541
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684157
+diametro_pequeno: 0.248751
+id: 542
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684282
+diametro_pequeno: 0.124501
+id: 543
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622094
+diametro_pequeno: 0.124376
+id: 544
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560032
+diametro_pequeno: 0.248501
+id: 545
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560032
+diametro_pequeno: 0.248501
+id: 546
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.186844
+id: 547
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496046
+diametro_pequeno: 0.124251
+id: 548
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404422
+diametro_pequeno: 0.124376
+id: 549
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.40049
+diametro_pequeno: 0.124251
+id: 550
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622094
+diametro_pequeno: 0.248501
+id: 551
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497844
+diametro_pequeno: 0.124501
+id: 552
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435516
+diametro_pequeno: 0.124501
+id: 553
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560032
+diametro_pequeno: 0.248501
+id: 554
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 555
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.186844
+id: 556
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.424995
+diametro_pequeno: 0.155079
+id: 557
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.122724
+id: 558
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435454
+diametro_pequeno: 0.11675
+id: 559
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466782
+diametro_pequeno: 0.186501
+id: 560
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435547
+diametro_pequeno: 0.124376
+id: 561
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.186376
+id: 562
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46661
+diametro_pequeno: 0.124251
+id: 563
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.256108
+diametro_pequeno: 0.0849595
+id: 564
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435516
+diametro_pequeno: 0.124376
+id: 565
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435547
+diametro_pequeno: 0.124251
+id: 566
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.284745
+diametro_pequeno: 0.0619334
+id: 567
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404644
+diametro_pequeno: 0.0466854
+id: 568
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.453504
+diametro_pequeno: 0.124251
+id: 569
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.557264
+diametro_pequeno: 0.248501
+id: 570
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560032
+diametro_pequeno: 0.248501
+id: 571
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.807751
+diametro_pequeno: 0.248751
+id: 572
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.808751
+diametro_pequeno: 0.248751
+id: 573
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559667
+diametro_pequeno: 0.248501
+id: 574
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.124376
+id: 575
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684376
+diametro_pequeno: 0.124376
+id: 576
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.248501
+id: 577
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124251
+id: 578
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.461903
+diametro_pequeno: 0.155032
+id: 579
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.397923
+diametro_pequeno: 0.124376
+id: 580
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404469
+diametro_pequeno: 0.124376
+id: 581
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124251
+id: 582
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124251
+id: 583
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870313
+diametro_pequeno: 0.248501
+id: 584
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684782
+diametro_pequeno: 0.124376
+id: 585
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124251
+id: 586
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46686
+diametro_pequeno: 0.187344
+id: 587
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.46686
+diametro_pequeno: 0.154829
+id: 588
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 589
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 590
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 591
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.400758
+diametro_pequeno: 0.124251
+id: 592
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497376
+diametro_pequeno: 0.124251
+id: 593
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.48391
+diametro_pequeno: 0.124251
+id: 594
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.465315
+diametro_pequeno: 0.0936719
+id: 595
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.48438
+diametro_pequeno: 0.0936719
+id: 596
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.0621876
+id: 597
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.0621876
+id: 598
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.462631
+diametro_pequeno: 0.0621251
+id: 599
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620813
+diametro_pequeno: 0.248126
+id: 600
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745376
+diametro_pequeno: 0.248501
+id: 601
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.47353
+diametro_pequeno: 0.0705936
+id: 602
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.0991774
+id: 603
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.490704
+diametro_pequeno: 0.103186
+id: 604
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466329
+diametro_pequeno: 0.0930274
+id: 605
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.528829
+diametro_pequeno: 0.0727487
+id: 606
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.110517
+id: 607
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622094
+diametro_pequeno: 0.124376
+id: 608
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497844
+diametro_pequeno: 0.185813
+id: 609
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559282
+diametro_pequeno: 0.124376
+id: 610
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497844
+diametro_pequeno: 0.155032
+id: 611
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435657
+diametro_pequeno: 0.124376
+id: 612
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435719
+diametro_pequeno: 0.125063
+id: 613
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435516
+diametro_pequeno: 0.124657
+id: 614
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435657
+diametro_pequeno: 0.124376
+id: 615
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.0464219
+id: 616
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560126
+diametro_pequeno: 0.124376
+id: 617
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466657
+diametro_pequeno: 0.124376
+id: 618
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372422
+diametro_pequeno: 0.0929063
+id: 619
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.30524
+diametro_pequeno: 0.0621876
+id: 620
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.419157
+diametro_pequeno: 0.0934688
+id: 621
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434751
+diametro_pequeno: 0.0704421
+id: 622
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466657
+diametro_pequeno: 0.185813
+id: 623
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124563
+id: 624
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434532
+diametro_pequeno: 0.124376
+id: 625
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.0929063
+id: 626
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.348322
+diametro_pequeno: 0.0929063
+id: 627
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124376
+id: 628
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.370782
+diametro_pequeno: 0.0934688
+id: 629
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.325735
+diametro_pequeno: 0.0622813
+id: 630
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248751
+diametro_pequeno: 0.0739447
+id: 631
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.324148
+diametro_pequeno: 0.0622813
+id: 632
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.557938
+diametro_pequeno: 0.124376
+id: 633
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.279169
+diametro_pequeno: 0.0928438
+id: 634
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248751
+diametro_pequeno: 0.0506961
+id: 635
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309213
+diametro_pequeno: 0.0842954
+id: 636
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.315444
+diametro_pequeno: 0.0306138
+id: 637
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.124376
+id: 638
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404579
+diametro_pequeno: 0.124563
+id: 639
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.431184
+diametro_pequeno: 0.124813
+id: 640
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373532
+diametro_pequeno: 0.124376
+id: 641
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.123626
+id: 642
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.490511
+diametro_pequeno: 0.123688
+id: 643
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.460605
+diametro_pequeno: 0.0929063
+id: 644
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.490511
+diametro_pequeno: 0.0929063
+id: 645
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403751
+diametro_pequeno: 0.124376
+id: 646
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372063
+diametro_pequeno: 0.124376
+id: 647
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.0928438
+id: 648
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.450346
+diametro_pequeno: 0.0929063
+id: 649
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.490649
+diametro_pequeno: 0.0929063
+id: 650
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.475876
+diametro_pequeno: 0.0934688
+id: 651
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435313
+diametro_pequeno: 0.0621876
+id: 652
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.490649
+diametro_pequeno: 0.0622813
+id: 653
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.291505
+diametro_pequeno: 0.030243
+id: 654
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124563
+id: 655
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435657
+diametro_pequeno: 0.124376
+id: 656
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435657
+diametro_pequeno: 0.124376
+id: 657
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124376
+id: 658
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373876
+diametro_pequeno: 0.124251
+id: 659
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.123626
+id: 660
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.0934688
+id: 661
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.0622813
+id: 662
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.329907
+diametro_pequeno: 0.0672082
+id: 663
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466657
+diametro_pequeno: 0.155032
+id: 664
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.370058
+diametro_pequeno: 0.124563
+id: 665
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373876
+diametro_pequeno: 0.124191
+id: 666
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.338922
+diametro_pequeno: 0.121708
+id: 667
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.0928438
+id: 668
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.221681
+diametro_pequeno: 0.0464532
+id: 669
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.348381
+diametro_pequeno: 0.0621876
+id: 670
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.486734
+diametro_pequeno: 0.0929063
+id: 671
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.0929063
+id: 672
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.376174
+diametro_pequeno: 0.094368
+id: 673
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.421103
+diametro_pequeno: 0.0621876
+id: 674
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.417694
+diametro_pequeno: 0.0934688
+id: 675
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.284095
+diametro_pequeno: 0.0621876
+id: 676
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309969
+diametro_pequeno: 0.0928438
+id: 677
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.122745
+id: 678
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373126
+diametro_pequeno: 0.0929063
+id: 679
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.33875
+diametro_pequeno: 0.12048
+id: 680
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.254086
+diametro_pequeno: 0.0934688
+id: 681
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622719
+diametro_pequeno: 0.124376
+id: 682
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621813
+diametro_pequeno: 0.124251
+id: 683
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.685032
+diametro_pequeno: 0.187469
+id: 684
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621813
+diametro_pequeno: 0.124251
+id: 685
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497563
+diametro_pequeno: 0.124251
+id: 686
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.591235
+diametro_pequeno: 0.124376
+id: 687
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466922
+diametro_pequeno: 0.122709
+id: 688
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311516
+diametro_pequeno: 0.0621876
+id: 689
+
+variables: 11
+restricciones: 8
+profundidad: 6
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.870313
+diametro_pequeno: 0.248501
+id: 690
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.248751
+id: 691
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.124376
+id: 692
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.248501
+id: 693
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559282
+diametro_pequeno: 0.124563
+id: 694
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620922
+diametro_pequeno: 0.186016
+id: 695
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559376
+diametro_pequeno: 0.248094
+id: 696
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.559282
+diametro_pequeno: 0.124376
+id: 697
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 698
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620563
+diametro_pequeno: 0.248001
+id: 699
+
+variables: 11
+restricciones: 8
+profundidad: 7
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.248501
+id: 700
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621188
+diametro_pequeno: 0.124251
+id: 701
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497126
+diametro_pequeno: 0.124313
+id: 702
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466766
+diametro_pequeno: 0.124376
+id: 703
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.460896
+diametro_pequeno: 0.0928282
+id: 704
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.500941
+diametro_pequeno: 0.116706
+id: 705
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.49177
+diametro_pequeno: 0.110634
+id: 706
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.48137
+diametro_pequeno: 0.107851
+id: 707
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.312638
+diametro_pequeno: 0.133061
+id: 708
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620563
+diametro_pequeno: 0.247376
+id: 709
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124563
+id: 710
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620081
+diametro_pequeno: 0.124376
+id: 711
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.413813
+diametro_pequeno: 0.14383
+id: 712
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.106636
+id: 713
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.615825
+diametro_pequeno: 0.124376
+id: 714
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.507933
+diametro_pequeno: 0.116095
+id: 715
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.460997
+diametro_pequeno: 0.0979946
+id: 716
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.186126
+id: 717
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621282
+diametro_pequeno: 0.124376
+id: 718
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621282
+diametro_pequeno: 0.124344
+id: 719
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.119929
+id: 720
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.331896
+diametro_pequeno: 0.103048
+id: 721
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497501
+diametro_pequeno: 0.124376
+id: 722
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.363865
+diametro_pequeno: 0.124251
+id: 723
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745969
+diametro_pequeno: 0.248501
+id: 724
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745438
+diametro_pequeno: 0.248501
+id: 725
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.615975
+diametro_pequeno: 0.125115
+id: 726
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.517508
+diametro_pequeno: 0.124376
+id: 727
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496574
+diametro_pequeno: 0.124376
+id: 728
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620065
+diametro_pequeno: 0.122916
+id: 729
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.124376
+id: 730
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.292275
+diametro_pequeno: 0.0445196
+id: 731
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372688
+diametro_pequeno: 0.119197
+id: 732
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.40653
+diametro_pequeno: 0.0422689
+id: 733
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.433249
+diametro_pequeno: 0.124376
+id: 734
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497048
+diametro_pequeno: 0.120848
+id: 735
+
+variables: 11
+restricciones: 8
+profundidad: 8
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684907
+diametro_pequeno: 0.248501
+id: 736
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622719
+diametro_pequeno: 0.248501
+id: 737
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 738
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 739
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.466922
+diametro_pequeno: 0.187469
+id: 740
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.529501
+diametro_pequeno: 0.124313
+id: 741
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.518834
+diametro_pequeno: 0.186501
+id: 742
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560657
+diametro_pequeno: 0.124251
+id: 743
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.358442
+diametro_pequeno: 0.0621251
+id: 744
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.392735
+diametro_pequeno: 0.0621876
+id: 745
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.480969
+diametro_pequeno: 0.124251
+id: 746
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.506612
+diametro_pequeno: 0.124251
+id: 747
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620348
+diametro_pequeno: 0.248501
+id: 748
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.580813
+diametro_pequeno: 0.248501
+id: 749
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 750
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.495925
+diametro_pequeno: 0.124251
+id: 751
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.560438
+diametro_pequeno: 0.124376
+id: 752
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436251
+diametro_pequeno: 0.124251
+id: 753
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373907
+diametro_pequeno: 0.124376
+id: 754
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404954
+diametro_pequeno: 0.124563
+id: 755
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.342813
+diametro_pequeno: 0.124376
+id: 756
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311782
+diametro_pequeno: 0.124251
+id: 757
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373907
+diametro_pequeno: 0.124251
+id: 758
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280719
+diametro_pequeno: 0.124251
+id: 759
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311782
+diametro_pequeno: 0.0931876
+id: 760
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.219235
+diametro_pequeno: 0.0621876
+id: 761
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249126
+diametro_pequeno: 0.0622813
+id: 762
+
+variables: 11
+restricciones: 8
+profundidad: 27
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.186485
+diametro_pequeno: 0.0621251
+id: 763
+
+variables: 11
+restricciones: 8
+profundidad: 26
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.159636
+diametro_pequeno: 0.0471818
+id: 764
+
+variables: 11
+restricciones: 8
+profundidad: 29
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.195288
+diametro_pequeno: 0.0310938
+id: 765
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.18362
+diametro_pequeno: 0.0447761
+id: 766
+
+variables: 11
+restricciones: 8
+profundidad: 31
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.20425
+diametro_pequeno: 0.0310626
+id: 767
+
+variables: 11
+restricciones: 8
+profundidad: 30
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.176217
+diametro_pequeno: 0.0310626
+id: 768
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.744501
+diametro_pequeno: 0.247782
+id: 769
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498469
+diametro_pequeno: 0.124563
+id: 770
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 771
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 772
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.467329
+diametro_pequeno: 0.124563
+id: 773
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.489554
+diametro_pequeno: 0.124448
+id: 774
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310643
+diametro_pequeno: 0.0672811
+id: 775
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248105
+diametro_pequeno: 0.0476592
+id: 776
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620126
+diametro_pequeno: 0.247782
+id: 777
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.477323
+diametro_pequeno: 0.124563
+id: 778
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 779
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.456771
+diametro_pequeno: 0.124251
+id: 780
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 781
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.394376
+diametro_pequeno: 0.124376
+id: 782
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404985
+diametro_pequeno: 0.124563
+id: 783
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404448
+diametro_pequeno: 0.124251
+id: 784
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372969
+diametro_pequeno: 0.124251
+id: 785
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310844
+diametro_pequeno: 0.123438
+id: 786
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248751
+diametro_pequeno: 0.0927813
+id: 787
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.311542
+diametro_pequeno: 0.124251
+id: 788
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498469
+diametro_pequeno: 0.124376
+id: 789
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 790
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.494197
+diametro_pequeno: 0.124251
+id: 791
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.34286
+diametro_pequeno: 0.0621876
+id: 792
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.34286
+diametro_pequeno: 0.0621876
+id: 793
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280735
+diametro_pequeno: 0.124251
+id: 794
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341661
+diametro_pequeno: 0.124251
+id: 795
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.465579
+diametro_pequeno: 0.124376
+id: 796
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280735
+diametro_pequeno: 0.124251
+id: 797
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.308938
+diametro_pequeno: 0.0922344
+id: 798
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.246751
+diametro_pequeno: 0.0611407
+id: 799
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.211985
+diametro_pequeno: 0.0448569
+id: 800
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.184376
+diametro_pequeno: 0.0455235
+id: 801
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435157
+diametro_pequeno: 0.124251
+id: 802
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.216704
+diametro_pequeno: 0.044132
+id: 803
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435157
+diametro_pequeno: 0.124251
+id: 804
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.291408
+diametro_pequeno: 0.0622813
+id: 805
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.138025
+diametro_pequeno: 0.0263571
+id: 806
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.495376
+diametro_pequeno: 0.124563
+id: 807
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435829
+diametro_pequeno: 0.124376
+id: 808
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404735
+diametro_pequeno: 0.124376
+id: 809
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403938
+diametro_pequeno: 0.124251
+id: 810
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.307309
+diametro_pequeno: 0.0925391
+id: 811
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.319472
+diametro_pequeno: 0.102823
+id: 812
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280016
+diametro_pequeno: 0.0622813
+id: 813
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.278954
+diametro_pequeno: 0.0772422
+id: 814
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.234234
+diametro_pequeno: 0.0621876
+id: 815
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341164
+diametro_pequeno: 0.0772422
+id: 816
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.465579
+diametro_pequeno: 0.124376
+id: 817
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403391
+diametro_pequeno: 0.124376
+id: 818
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403422
+diametro_pequeno: 0.124251
+id: 819
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341993
+diametro_pequeno: 0.123891
+id: 820
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.306936
+diametro_pequeno: 0.0622813
+id: 821
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.268256
+diametro_pequeno: 0.0718933
+id: 822
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.236111
+diametro_pequeno: 0.0621876
+id: 823
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309969
+diametro_pequeno: 0.113068
+id: 824
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310063
+diametro_pequeno: 0.0832396
+id: 825
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.351198
+diametro_pequeno: 0.113365
+id: 826
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.288605
+diametro_pequeno: 0.0821771
+id: 827
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.227792
+diametro_pequeno: 0.0722292
+id: 828
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280013
+diametro_pequeno: 0.0621876
+id: 829
+
+variables: 11
+restricciones: 8
+profundidad: 26
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.200562
+diametro_pequeno: 0.0361146
+id: 830
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.286347
+diametro_pequeno: 0.0747481
+id: 831
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372157
+diametro_pequeno: 0.0927501
+id: 832
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.369723
+diametro_pequeno: 0.123891
+id: 833
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.304888
+diametro_pequeno: 0.0912127
+id: 834
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373594
+diametro_pequeno: 0.124376
+id: 835
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373626
+diametro_pequeno: 0.124251
+id: 836
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341993
+diametro_pequeno: 0.123891
+id: 837
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.325821
+diametro_pequeno: 0.108344
+id: 838
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.293885
+diametro_pequeno: 0.0621876
+id: 839
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341993
+diametro_pequeno: 0.103323
+id: 840
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341207
+diametro_pequeno: 0.103323
+id: 841
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373594
+diametro_pequeno: 0.124251
+id: 842
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.276493
+diametro_pequeno: 0.103323
+id: 843
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.340868
+diametro_pequeno: 0.123891
+id: 844
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.276916
+diametro_pequeno: 0.0756635
+id: 845
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.308202
+diametro_pequeno: 0.0621251
+id: 846
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.280063
+diametro_pequeno: 0.0621876
+id: 847
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.281451
+diametro_pequeno: 0.101985
+id: 848
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.225135
+diametro_pequeno: 0.0508959
+id: 849
+
+variables: 11
+restricciones: 8
+profundidad: 26
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.197036
+diametro_pequeno: 0.037734
+id: 850
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.25996
+diametro_pequeno: 0.0671683
+id: 851
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.246456
+diametro_pequeno: 0.0533045
+id: 852
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.214019
+diametro_pequeno: 0.0490249
+id: 853
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.219438
+diametro_pequeno: 0.0516615
+id: 854
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.219438
+diametro_pequeno: 0.0619454
+id: 855
+
+variables: 11
+restricciones: 8
+profundidad: 27
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.127359
+diametro_pequeno: 0.024788
+id: 856
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.250532
+diametro_pequeno: 0.0516615
+id: 857
+
+variables: 11
+restricciones: 8
+profundidad: 28
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.23137
+diametro_pequeno: 0.0310938
+id: 858
+
+variables: 11
+restricciones: 8
+profundidad: 29
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.213253
+diametro_pequeno: 0.0309727
+id: 859
+
+variables: 11
+restricciones: 8
+profundidad: 27
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.245376
+diametro_pequeno: 0.0460963
+id: 860
+
+variables: 11
+restricciones: 8
+profundidad: 31
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.182
+diametro_pequeno: 0.0258308
+id: 861
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309473
+diametro_pequeno: 0.0662125
+id: 862
+
+variables: 11
+restricciones: 8
+profundidad: 29
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.219072
+diametro_pequeno: 0.0309727
+id: 863
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745938
+diametro_pequeno: 0.248501
+id: 864
+
+variables: 11
+restricciones: 8
+profundidad: 9
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.744751
+diametro_pequeno: 0.185719
+id: 865
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.684688
+diametro_pequeno: 0.248182
+id: 866
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 867
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124563
+id: 868
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497235
+diametro_pequeno: 0.186399
+id: 869
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496829
+diametro_pequeno: 0.124047
+id: 870
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496829
+diametro_pequeno: 0.124047
+id: 871
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372829
+diametro_pequeno: 0.124251
+id: 872
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.122715
+id: 873
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372954
+diametro_pequeno: 0.0759224
+id: 874
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.251317
+diametro_pequeno: 0.0770079
+id: 875
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.274754
+diametro_pequeno: 0.124211
+id: 876
+
+variables: 11
+restricciones: 8
+profundidad: 10
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.744938
+diametro_pequeno: 0.248001
+id: 877
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620563
+diametro_pequeno: 0.185813
+id: 878
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 879
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124563
+id: 880
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.496688
+diametro_pequeno: 0.124001
+id: 881
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.417054
+diametro_pequeno: 0.146183
+id: 882
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124039
+id: 883
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.115919
+id: 884
+
+variables: 11
+restricciones: 8
+profundidad: 11
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.622407
+diametro_pequeno: 0.248501
+id: 885
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.123811
+id: 886
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.185998
+id: 887
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.498443
+diametro_pequeno: 0.125255
+id: 888
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 889
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.458107
+diametro_pequeno: 0.124251
+id: 890
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.121928
+id: 891
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.460347
+diametro_pequeno: 0.119215
+id: 892
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.373962
+diametro_pequeno: 0.0621876
+id: 893
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.41757
+diametro_pequeno: 0.154922
+id: 894
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621563
+diametro_pequeno: 0.248306
+id: 895
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497438
+diametro_pequeno: 0.124251
+id: 896
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.436251
+diametro_pequeno: 0.124376
+id: 897
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.43471
+diametro_pequeno: 0.124969
+id: 898
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.31136
+diametro_pequeno: 0.115455
+id: 899
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.118108
+id: 900
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372751
+diametro_pequeno: 0.111552
+id: 901
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497002
+diametro_pequeno: 0.124251
+id: 902
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435672
+diametro_pequeno: 0.124376
+id: 903
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124251
+id: 904
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.0621876
+id: 905
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372626
+diametro_pequeno: 0.0621876
+id: 906
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 907
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 908
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372751
+diametro_pequeno: 0.124251
+id: 909
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.291008
+diametro_pequeno: 0.0935782
+id: 910
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.302393
+diametro_pequeno: 0.0621563
+id: 911
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.357982
+diametro_pequeno: 0.124251
+id: 912
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.400656
+diametro_pequeno: 0.124188
+id: 913
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.435251
+diametro_pequeno: 0.124251
+id: 914
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.432761
+diametro_pequeno: 0.0899586
+id: 915
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249126
+diametro_pequeno: 0.0523092
+id: 916
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.429497
+diametro_pequeno: 0.062375
+id: 917
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.428062
+diametro_pequeno: 0.062375
+id: 918
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.278156
+diametro_pequeno: 0.0621876
+id: 919
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309249
+diametro_pequeno: 0.120686
+id: 920
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.124563
+diametro_pequeno: 0.0281612
+id: 921
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.124563
+diametro_pequeno: 0.0281486
+id: 922
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.303147
+diametro_pequeno: 0.0620938
+id: 923
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249099
+diametro_pequeno: 0.0484417
+id: 924
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310579
+diametro_pequeno: 0.0621876
+id: 925
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309795
+diametro_pequeno: 0.0621876
+id: 926
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.291266
+diametro_pequeno: 0.0621876
+id: 927
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.295243
+diametro_pequeno: 0.0621876
+id: 928
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.342454
+diametro_pequeno: 0.077461
+id: 929
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249126
+diametro_pequeno: 0.0928282
+id: 930
+
+variables: 11
+restricciones: 8
+profundidad: 12
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620376
+diametro_pequeno: 0.248751
+id: 931
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620376
+diametro_pequeno: 0.248751
+id: 932
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497001
+diametro_pequeno: 0.124376
+id: 933
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.489147
+diametro_pequeno: 0.123532
+id: 934
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.494126
+diametro_pequeno: 0.154204
+id: 935
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.371438
+diametro_pequeno: 0.124563
+id: 936
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.368879
+diametro_pequeno: 0.124376
+id: 937
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.432636
+diametro_pequeno: 0.123532
+id: 938
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309344
+diametro_pequeno: 0.124376
+id: 939
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.304739
+diametro_pequeno: 0.123532
+id: 940
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.247063
+diametro_pequeno: 0.0764023
+id: 941
+
+variables: 11
+restricciones: 8
+profundidad: 13
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.248751
+id: 942
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 943
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.490444
+diametro_pequeno: 0.124297
+id: 944
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497391
+diametro_pequeno: 0.145738
+id: 945
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404844
+diametro_pequeno: 0.124563
+id: 946
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.421047
+diametro_pequeno: 0.124376
+id: 947
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.429772
+diametro_pequeno: 0.124251
+id: 948
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 949
+
+variables: 11
+restricciones: 8
+profundidad: 14
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.745126
+diametro_pequeno: 0.207063
+id: 950
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 951
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.248501
+id: 952
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.487844
+diametro_pequeno: 0.207063
+id: 953
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.456231
+diametro_pequeno: 0.124297
+id: 954
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.404032
+diametro_pequeno: 0.124563
+id: 955
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.328027
+diametro_pequeno: 0.124376
+id: 956
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.369908
+diametro_pequeno: 0.124376
+id: 957
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249126
+diametro_pequeno: 0.0717406
+id: 958
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.55911
+diametro_pequeno: 0.248407
+id: 959
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.414037
+diametro_pequeno: 0.143776
+id: 960
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.465688
+diametro_pequeno: 0.124563
+id: 961
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434641
+diametro_pequeno: 0.124376
+id: 962
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403547
+diametro_pequeno: 0.124376
+id: 963
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403579
+diametro_pequeno: 0.124251
+id: 964
+
+variables: 11
+restricciones: 8
+profundidad: 26
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.171485
+diametro_pequeno: 0.0517214
+id: 965
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.214751
+diametro_pequeno: 0.0699875
+id: 966
+
+variables: 11
+restricciones: 8
+profundidad: 16
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.621594
+diametro_pequeno: 0.124376
+id: 967
+
+variables: 11
+restricciones: 8
+profundidad: 15
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.620876
+diametro_pequeno: 0.124376
+id: 968
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.493359
+diametro_pequeno: 0.124297
+id: 969
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.403474
+diametro_pequeno: 0.124376
+id: 970
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.371914
+diametro_pequeno: 0.0621876
+id: 971
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.36936
+diametro_pequeno: 0.0621876
+id: 972
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309813
+diametro_pequeno: 0.124204
+id: 973
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.309609
+diametro_pequeno: 0.122086
+id: 974
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248751
+diametro_pequeno: 0.0621876
+id: 975
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.27968
+diametro_pequeno: 0.0622813
+id: 976
+
+variables: 11
+restricciones: 8
+profundidad: 17
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.488843
+diametro_pequeno: 0.185566
+id: 977
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.37261
+diametro_pequeno: 0.124094
+id: 978
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.434797
+diametro_pequeno: 0.124094
+id: 979
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.370238
+diametro_pequeno: 0.123782
+id: 980
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372719
+diametro_pequeno: 0.124376
+id: 981
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372719
+diametro_pequeno: 0.124376
+id: 982
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310618
+diametro_pequeno: 0.124149
+id: 983
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.291638
+diametro_pequeno: 0.124204
+id: 984
+
+variables: 11
+restricciones: 8
+profundidad: 25
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.249126
+diametro_pequeno: 0.0622813
+id: 985
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.289454
+diametro_pequeno: 0.124563
+id: 986
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.330891
+diametro_pequeno: 0.124376
+id: 987
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.286778
+diametro_pequeno: 0.0830313
+id: 988
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.248501
+diametro_pequeno: 0.0830313
+id: 989
+
+variables: 11
+restricciones: 8
+profundidad: 18
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.497188
+diametro_pequeno: 0.144766
+id: 990
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.25755
+diametro_pequeno: 0.0830313
+id: 991
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.372719
+diametro_pequeno: 0.124376
+id: 992
+
+variables: 11
+restricciones: 8
+profundidad: 23
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.310618
+diametro_pequeno: 0.124149
+id: 993
+
+variables: 11
+restricciones: 8
+profundidad: 24
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.308089
+diametro_pequeno: 0.103532
+id: 994
+
+variables: 11
+restricciones: 8
+profundidad: 22
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.299591
+diametro_pequeno: 0.124204
+id: 995
+
+variables: 11
+restricciones: 8
+profundidad: 20
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.338829
+diametro_pequeno: 0.123969
+id: 996
+
+variables: 11
+restricciones: 8
+profundidad: 21
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.341501
+diametro_pequeno: 0.124376
+id: 997
+
+variables: 11
+restricciones: 8
+profundidad: 19
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.495342
+diametro_pequeno: 0.15511
+id: 998
+
+variables: 11
+restricciones: 8
+profundidad: 27
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.134302
+diametro_pequeno: 0.0476937
+id: 999
+
+variables: 11
+restricciones: 8
+profundidad: 28
+cota_superior: -47.3618
+cota_inferior: -227.297
+diametro_grande: 0.272094
+diametro_pequeno: 0.0310938
+id: 1000
+
+------------------------------------------------

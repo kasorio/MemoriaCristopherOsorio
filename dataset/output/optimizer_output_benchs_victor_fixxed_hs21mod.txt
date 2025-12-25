@@ -1,0 +1,145 @@
+LSMEAR 14
+LF 10
+RR 14
+SM 128
+SS 132
+SSR 118
+id: 1
+
+LSMEAR 2
+LF 2
+RR 6
+SM 4
+SS 6
+SSR 4
+id: 2
+
+LSMEAR 16
+LF 6
+RR 8
+SM 102
+SS 82
+SSR 82
+id: 3
+
+LSMEAR 10
+LF 14
+RR 14
+SM 96
+SS 90
+SSR 106
+id: 4
+
+LSMEAR 10
+LF 18
+RR 16
+SM 112
+SS 94
+SSR 114
+id: 5
+
+LSMEAR 2
+LF 2
+RR 2
+SM 2
+SS 4
+SSR 2
+id: 6
+
+LSMEAR 4
+LF 6
+RR 10
+SM 82
+SS 88
+SSR 104
+id: 7
+
+LSMEAR 6
+LF 6
+RR 12
+SM 86
+SS 80
+SSR 116
+id: 8
+
+LSMEAR 8
+LF 6
+RR 16
+SM 98
+SS 108
+SSR 106
+id: 9
+
+LSMEAR 6
+LF 14
+RR 10
+SM 8
+SS 12
+SSR 14
+id: 10
+
+LSMEAR 2
+LF 2
+RR 2
+SM 8
+SS 6
+SSR 4
+id: 11
+
+LSMEAR 6
+LF 8
+RR 10
+SM 12
+SS 12
+SSR 12
+id: 12
+
+LSMEAR 2
+LF 2
+RR 2
+SM 4
+SS 4
+SSR 6
+id: 13
+
+LSMEAR 2
+LF 2
+RR 2
+SM 6
+SS 4
+SSR 2
+id: 14
+
+LSMEAR 2
+LF 2
+RR 6
+SM 2
+SS 2
+SSR 4
+id: 15
+
+LSMEAR 2
+LF 2
+RR 2
+SM 4
+SS 2
+SSR 4
+id: 16
+
+LSMEAR 2
+LF 2
+RR 2
+SM 6
+SS 6
+SSR 6
+id: 17
+
+LSMEAR 2
+LF 2
+RR 2
+SM 8
+SS 6
+SSR 6
+id: 18
+
+------------------------------------------------

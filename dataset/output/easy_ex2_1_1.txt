@@ -1,0 +1,305 @@
+LSMEAR 8
+LF 14
+RR 14
+SM 18
+SS 18
+SSR 18
+id: 1
+
+LSMEAR 2
+LF 4
+RR 2
+SM 2
+SS 2
+SSR 2
+id: 2
+
+LSMEAR 6
+LF 16
+RR 6
+SM 6
+SS 6
+SSR 6
+id: 3
+
+LSMEAR 10
+LF 20
+RR 14
+SM 18
+SS 18
+SSR 20
+id: 4
+
+LSMEAR 4
+LF 14
+RR 4
+SM 4
+SS 4
+SSR 4
+id: 5
+
+LSMEAR 2
+LF 8
+RR 2
+SM 2
+SS 2
+SSR 2
+id: 6
+
+LSMEAR 2
+LF 10
+RR 2
+SM 4
+SS 4
+SSR 4
+id: 7
+
+LSMEAR 4
+LF 14
+RR 4
+SM 6
+SS 6
+SSR 6
+id: 8
+
+LSMEAR 6
+LF 16
+RR 6
+SM 8
+SS 8
+SSR 8
+id: 9
+
+LSMEAR 12
+LF 20
+RR 14
+SM 14
+SS 14
+SSR 18
+id: 10
+
+LSMEAR 2
+LF 8
+RR 2
+SM 2
+SS 2
+SSR 2
+id: 11
+
+LSMEAR 2
+LF 8
+RR 2
+SM 4
+SS 4
+SSR 4
+id: 12
+
+LSMEAR 2
+LF 10
+RR 2
+SM 2
+SS 2
+SSR 4
+id: 13
+
+LSMEAR 4
+LF 14
+RR 8
+SM 4
+SS 4
+SSR 4
+id: 14
+
+LSMEAR 2
+LF 4
+RR 6
+SM 4
+SS 4
+SSR 8
+id: 15
+
+LSMEAR 4
+LF 12
+RR 4
+SM 12
+SS 12
+SSR 12
+id: 16
+
+LSMEAR 12
+LF 18
+RR 14
+SM 16
+SS 16
+SSR 16
+id: 17
+
+LSMEAR 6
+LF 14
+RR 6
+SM 10
+SS 8
+SSR 10
+id: 18
+
+LSMEAR 4
+LF 6
+RR 6
+SM 10
+SS 10
+SSR 10
+id: 19
+
+LSMEAR 2
+LF 8
+RR 4
+SM 2
+SS 2
+SSR 2
+id: 20
+
+LSMEAR 2
+LF 12
+RR 4
+SM 8
+SS 10
+SSR 10
+id: 21
+
+LSMEAR 2
+LF 6
+RR 2
+SM 2
+SS 2
+SSR 2
+id: 22
+
+LSMEAR 8
+LF 16
+RR 10
+SM 12
+SS 12
+SSR 12
+id: 23
+
+LSMEAR 8
+LF 14
+RR 6
+SM 12
+SS 12
+SSR 12
+id: 24
+
+LSMEAR 4
+LF 6
+RR 4
+SM 4
+SS 8
+SSR 8
+id: 25
+
+LSMEAR 2
+LF 6
+RR 2
+SM 6
+SS 6
+SSR 6
+id: 26
+
+LSMEAR 4
+LF 12
+RR 4
+SM 10
+SS 12
+SSR 12
+id: 27
+
+LSMEAR 2
+LF 8
+RR 2
+SM 2
+SS 2
+SSR 4
+id: 28
+
+LSMEAR 2
+LF 6
+RR 6
+SM 2
+SS 4
+SSR 4
+id: 29
+
+LSMEAR 4
+LF 8
+RR 6
+SM 10
+SS 10
+SSR 10
+id: 30
+
+LSMEAR 6
+LF 12
+RR 8
+SM 8
+SS 8
+SSR 6
+id: 31
+
+LSMEAR 2
+LF 12
+RR 6
+SM 6
+SS 6
+SSR 4
+id: 32
+
+LSMEAR 6
+LF 8
+RR 6
+SM 8
+SS 4
+SSR 8
+id: 33
+
+LSMEAR 2
+LF 2
+RR 2
+SM 2
+SS 2
+SSR 2
+id: 34
+
+LSMEAR 2
+LF 6
+RR 4
+SM 6
+SS 4
+SSR 6
+id: 35
+
+LSMEAR 2
+LF 4
+RR 6
+SM 2
+SS 2
+SSR 2
+id: 36
+
+LSMEAR 6
+LF 8
+RR 6
+SM 10
+SS 6
+SSR 8
+id: 37
+
+LSMEAR 2
+LF 2
+RR 2
+SM 2
+SS 2
+SSR 2
+id: 38
+
+------------------------------------------------
